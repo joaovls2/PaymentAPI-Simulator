@@ -5,7 +5,7 @@ O **PaymentAPI Simulator** é um projeto desenvolvido em **Java** que simula o f
 
 O objetivo do projeto é demonstrar na prática a aplicação de **Design Patterns (Padrões de Projeto)** para organizar melhor o código, melhorar a manutenção e facilitar a expansão do sistema.
 
-Este projeto foi desenvolvido como parte de um desafio do **Bootcamp Java e Cloud Developer**, promovido pela **:contentReference[oaicite:0]{index=0} (DIO)** em parceria com a **:contentReference[oaicite:1]{index=1}**.
+Este projeto foi desenvolvido como parte de um desafio do **Bootcamp Java e Cloud Developer**, promovido pela **DIO** em parceria com a **Accenture**.
 
 ---
 
